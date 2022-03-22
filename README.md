@@ -18,6 +18,7 @@ Recriando a interface do YouTube utilizando Material-ui e React.js.
 ## 💈 Tecnologias utilizadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
+- [JavaScript](https://www.javascript.com/)
 - [Material ui](https://mui.com/pt/)
 
 ## ▶️ Executando a aplicação
